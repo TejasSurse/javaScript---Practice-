@@ -56,3 +56,16 @@ JavaScript can be broadly categorized into different types based on its usage en
 | **Performance**               | Depends on the client’s device and browser        | Depends on server resources and configuration     |
 
 These categories and distinctions help understand the versatile roles JavaScript plays in both client and server environments. */
+
+/*
+a Basic defination of javascript 
+high level 
+dynamic - language exe at the time of runtime 
+dynamically typed - variable does not enforce a type you can reassign any type to a varibale for example assigning an integer to a variable that holds a string.
+
+weakly typed - as opposed strong typing 
+interpreted 
+mulit -paradigm - i.e not only oop and imperative it is both type 
+
+
+*/
