@@ -66,6 +66,4 @@ dynamically typed - variable does not enforce a type you can reassign any type t
 weakly typed - as opposed strong typing 
 interpreted 
 mulit -paradigm - i.e not only oop and imperative it is both type 
-
-
 */
